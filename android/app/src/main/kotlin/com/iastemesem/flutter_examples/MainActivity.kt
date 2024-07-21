@@ -1,4 +1,4 @@
-package com.iastemesem.flutter.examples.flutter_examples
+package com.iastemesem.flutter_examples
 
 import io.flutter.embedding.android.FlutterActivity
 
